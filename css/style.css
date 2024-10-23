@@ -8,7 +8,17 @@
 body {
     /* margin: 0 auto; */
 }
-
+.logo-text {
+    text-transform: uppercase;
+    border: 2px solid;
+    padding: 4px 8px;
+}
+.daily {
+    margin: 0;
+    padding: 0;
+    background: white;
+    color:
+}
 .new-task-label {
     width: 100%; 
     max-width: 20rem; 
