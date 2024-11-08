@@ -1,33 +1,32 @@
-*,
+/* *,
 *::before,
 *::after {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
-body {
-    /* margin: 0 auto; */
+} */
+/* body {
 }
 .logo-text {
     text-transform: uppercase;
     border: 2px solid;
     padding: 4px 8px;
-}
-.daily {
+} */
+/* .daily {
     margin: 0;
     padding: 0;
     background: white;
-    color:
-}
-.new-task-label {
+    color: ;
+} */
+/* .new-task-label {
     width: 100%; 
     max-width: 20rem; 
-}
-.task-input {
+} */
+/* .task-input {
     width: 100%; 
     max-width: 20rem; 
-}
-.add-task-button {
+} */
+/* .add-task-button {
     background: rgb(30 41 59);
     padding-top: 0.5rem;
 padding-bottom: 0.5rem; 
@@ -45,8 +44,8 @@ transition-property: all;
 transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 transition-duration: 300ms; 
 box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);  
-}
+} */
 
-.add-task-button:hover {
+/* .add-task-button:hover {
     box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);  
-}
+} */
